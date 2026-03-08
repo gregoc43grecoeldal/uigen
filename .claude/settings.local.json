@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(claude update:*)",
+      "mcp__playwright__browser_navigate",
+      "Bash(node:*)",
+      "mcp__playwright"
+    ]
+  }
+}

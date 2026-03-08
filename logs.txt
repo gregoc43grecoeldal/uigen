@@ -1,0 +1,18 @@
+npm warn exec The following package was not found and will be installed: cross-env@10.1.0
+   ▲ Next.js 15.5.12 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://10.0.0.142:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Compiled middleware in 299ms
+ ✓ Ready in 1885ms
+ ○ Compiling / ...
+ ✓ Compiled / in 6s
+ GET / 200 in 6696ms
+ ✓ Compiled /favicon.ico in 181ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 522ms
+ ✓ Compiled /api/chat in 324ms
+ POST /api/chat 200 in 8986ms
+ ✓ Compiled in 90ms
+ POST /api/chat 200 in 9930ms
